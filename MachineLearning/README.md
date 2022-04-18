@@ -1,4 +1,1 @@
-I use Spotify API to get personal tracks for my music recommendation 
-
-The train_model.py is the code I'm training my model
-And the test_model is the code [SpotifyAPI](https://developer.spotify.com/console/get-audio-features-several-tracks/)
+I use the data on this [Github](https://github.com/Brice-Vergnou/spotify_recommendation#readme) for the machine to learn, I'm still learning how to get my own Spotify data track.
