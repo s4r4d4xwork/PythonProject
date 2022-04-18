@@ -9,3 +9,6 @@ The code test_model.py is used to test the trained model, I tested first 2 data 
 
 According to Data_feature.md
 0 = Dislike and 1 = Liked
+
+![image](https://user-images.githubusercontent.com/101840614/163831183-a2b34f0f-0d75-4beb-87d9-274dd6bd5e49.png)
+
